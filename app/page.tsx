@@ -1,8 +1,6 @@
 "use client";
 import { useState } from "react";
-import SideHeader from "./components/sideHeader";
 import { TopSection } from "./components/topSection";
-import { BurgerModal } from "./components/BurgerModal";
 import { MusicMap } from "./components/MusicMap";
 import { Footer } from "./ui/Footer";
 export default function Home() {
